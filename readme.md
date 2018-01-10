@@ -2,7 +2,7 @@
 
 ## Install
 ```
-npm install calulate
+npm install calculater-basic
 ```
 ## Use
 
