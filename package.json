@@ -1,6 +1,6 @@
 {
     "name": "calculater-basic",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "first app module",
     "main": "main.js",
     "scripts": {
